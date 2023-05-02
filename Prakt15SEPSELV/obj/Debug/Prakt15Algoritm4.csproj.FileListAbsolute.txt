@@ -1,0 +1,14 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\obj\Debug\Prakt15Algoritm4.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\obj\Debug\Prakt15Algoritm4.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\bin\Debug\Prakt15Algoritm4.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\bin\Debug\Prakt15Algoritm4.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\bin\Debug\Prakt15Algoritm4.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\obj\Debug\Prakt15Algoritm4.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15Algoritm4\obj\Debug\Prakt15Algoritm4.pdb
+D:\Prakt15SEPSELV\bin\Debug\Prakt15Algoritm4.exe.config
+D:\Prakt15SEPSELV\bin\Debug\Prakt15Algoritm4.exe
+D:\Prakt15SEPSELV\bin\Debug\Prakt15Algoritm4.pdb
+D:\Prakt15SEPSELV\obj\Debug\Prakt15Algoritm4.csproj.AssemblyReference.cache
+D:\Prakt15SEPSELV\obj\Debug\Prakt15Algoritm4.csproj.CoreCompileInputs.cache
+D:\Prakt15SEPSELV\obj\Debug\Prakt15Algoritm4.exe
+D:\Prakt15SEPSELV\obj\Debug\Prakt15Algoritm4.pdb
